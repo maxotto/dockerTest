@@ -1,0 +1,10 @@
+# volumes
+/logs
+/db
+/vue_build
+
+/.env.*
+
+# IDE setting
+## PhpStorm
+.idea
